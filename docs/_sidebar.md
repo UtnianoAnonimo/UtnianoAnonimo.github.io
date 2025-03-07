@@ -2,8 +2,8 @@
 
 - Señales
 
-    - [¿Qué son las Señales](./seniales/seniales.md)
-    - [Análisis de Fourier](./seniales/analisis_fourier.md)
+    - [¿Qué son las Señales](seniales/seniales.md)
+    - [Análisis de Fourier](seniales/analisis_fourier.md)
     
 - Modulación
     
