@@ -1,0 +1,1 @@
+# Información para Comunicación de Datos
