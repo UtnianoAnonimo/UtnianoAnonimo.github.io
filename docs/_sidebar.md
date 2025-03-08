@@ -1,14 +1,22 @@
-- Física de las Comunicaciones
+- Teórico
+    - Física de las Comunicaciones
 
-- Señales
+        - [Atenuación](fisica_de_las_comunicaciones/atenuacion.md)
+        - [Decibel](fisica_de_las_comunicaciones/decibel.md)
+        - [Impedancia](fisica_de_las_comunicaciones/impedancia.md)
 
-    - [¿Qué son las Señales](seniales/seniales.md)
-    - [Análisis de Fourier](seniales/analisis_fourier.md)
-    
-- Modulación
-    
-    - 
+    - Señales
 
-- Modelo OSI
+        - [¿Qué son las Señales?](seniales/seniales.md)
+        - [Análisis de Fourier](seniales/analisis_fourier.md)
+        - [Componente Continua](seniales/componente_continua.md)
 
-- Cableado Estructurado
+    - Modulación
+
+        - 
+
+    - Modelo OSI
+
+    - Cableado Estructurado
+
+- Práctico/Fórmulas
