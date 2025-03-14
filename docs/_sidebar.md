@@ -7,7 +7,10 @@
         - [Impedancia](fisica_de_las_comunicaciones/impedancia.md)
 
     - [Señales](seniales/seniales.md)
-        - [Análisis de Fourier](seniales/analisis_fourier.md)
+        - [Variaciones en las Señales](seniales/variaciones_seniales.md)
+        - [Frecuencia y Periodo](seniales/frecuencia_periodo.md)
+        - [Fourier](seniales/fourier/introduccion.md)
+            - [Analisis de Fourier](seniales/fourier/analisis_fourier.md)
         - [Componente Continua](seniales/componente_continua.md)
 
     - Modulación
