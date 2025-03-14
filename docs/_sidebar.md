@@ -6,9 +6,7 @@
         - [Decibel](fisica_de_las_comunicaciones/decibel.md)
         - [Impedancia](fisica_de_las_comunicaciones/impedancia.md)
 
-    - Señales
-
-        - [¿Qué son las Señales?](seniales/seniales.md)
+    - [Señales](seniales/seniales.md)
         - [Análisis de Fourier](seniales/analisis_fourier.md)
         - [Componente Continua](seniales/componente_continua.md)
 
