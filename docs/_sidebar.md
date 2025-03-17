@@ -11,6 +11,7 @@
         - [Frecuencia y Periodo](seniales/frecuencia_periodo.md)
         - [Fourier](seniales/fourier/introduccion.md)
             - [Analisis de Fourier](seniales/fourier/analisis_fourier.md)
+        - [Ancho de Banda](seniales/ancho_banda/ancho_banda.md)
         - [Componente Continua](seniales/componente_continua.md)
 
     - Modulación
@@ -21,4 +22,5 @@
 
     - Cableado Estructurado
 
+    - [Extra - Curiosidades](extra_curiosidades/extra_curiosidades.md)
 - Práctico/Fórmulas

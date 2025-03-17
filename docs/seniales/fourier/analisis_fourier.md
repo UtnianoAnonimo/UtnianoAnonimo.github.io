@@ -4,8 +4,6 @@ Fourier demostró que, podemos **construir cualquier función periódica $f(t)$ 
 
 De esa forma podés analizar la señal en sus valores de potencia o de tensión que es lo que nos interesa para saber qué señales ingresar como entrada para lograr ciertos valores de salida teniendo en cuenta los fenómenos físicos que suceden.
 
-Por lo que este análisis nos sirve para encontrar el espectro de frecuencia de las señales periódicas.
-
 ## Armonicas
 
 Una función periódica $f(t)$ se puede escribir como la suma de componentes sinusoidales de distintas frecuencias $n * w0$. Cada componente sinusoidal representa una **armónica** enésima de la función. Por ejemplo, la decimosegunda componente sinusoidal, será la decimosegunda armónica de la función.

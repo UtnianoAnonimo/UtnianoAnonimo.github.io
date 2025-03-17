@@ -7,3 +7,7 @@ Sin embargo, una señal también **puede estar constituida por la suma de compon
 ![dominio_tiempo_frecuencia](../../assets/dominio_tiempo_frecuencia.png)
 
 Para poder encontrar el espectro de frecuencia de una señal periódica, debemos utilizar el análisis de Fourier.
+
+### Espectro de Frecuencias
+
+Se refiere al conjunto de frecuencias que constituyen una señal.
