@@ -5,6 +5,7 @@
         - [Atenuación](fisica_de_las_comunicaciones/atenuacion.md)
         - [Decibel](fisica_de_las_comunicaciones/decibel.md)
         - [Impedancia](fisica_de_las_comunicaciones/impedancia.md)
+        - [Efecto Skin](fisica_de_las_comunicaciones/efecto_skin.md)
 
     - [Señales](seniales/seniales.md)
         - [Variaciones en las Señales](seniales/variaciones_seniales.md)
@@ -12,6 +13,9 @@
         - [Fourier](seniales/fourier/introduccion.md)
             - [Analisis de Fourier](seniales/fourier/analisis_fourier.md)
         - [Ancho de Banda](seniales/ancho_banda/ancho_banda.md)
+          - [¿Cómo buscar la mayor cantidad de energía en las señales?](seniales/ancho_banda/mayor_energia.md)
+          - [Problema a la Hora de Transmitir Datos por una Línea de Transmisión Alámbrica](seniales/ancho_banda/problemas_al_transmitir_analambrico.md)
+          - [Filtros](seniales/ancho_banda/filtros.md)
         - [Componente Continua](seniales/componente_continua.md)
 
     - Modulación
