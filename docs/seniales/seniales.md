@@ -5,4 +5,4 @@
 Para la existencia de información, debe haber incertidumbre. Por ejemplo, una corriente continua, periódica, que no varíe en el tiempo, no tiene incertidumbre; por lo que podemos predecir su comportamiento en cualquier momento del tiempo y por lo tanto no nos brinda información. En cambio, una corriente alterna, no periódica, si posee incertidumbre en su comportamiento en el tiempo y por lo tanto si nos brinda información.
 
 > [!ATTENTION]
-> Se dará más enfásis sobre este tema de información en la sección [Teoría de la información](teoria_de_la_informacion.md)
+> Se dará más enfásis sobre este tema de información en la sección [Teoría de la información](../teoria_de_la_informacion/teoria_de_la_informacion.md)

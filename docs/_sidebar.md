@@ -18,9 +18,13 @@
           - [Filtros](seniales/ancho_banda/filtros.md)
         - [Componente Continua](seniales/componente_continua.md)
 
-    - Modulación
+    - [Teoría de la Información](teoria_de_la_informacion/teoria_de_la_informacion.md)
+        - [Medida de Información](teoria_de_la_informacion/medida_informacion.md)
+        - [Información Mutua](teoria_de_la_informacion/informacion_mutua.md)
+        - [Bit y Binit](teoria_de_la_informacion/bit_binit.md)
+        - [Entropia](teoria_de_la_informacion/entropia.md) 
 
-        - 
+    - Modulación
 
     - Modelo OSI
 
