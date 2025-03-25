@@ -13,6 +13,5 @@ Es el ancho del espectro de frecuencias donde se **concentra la mayor parte de l
 
     ![ancho_banda_relativo](../../assets/ancho_banda_relativo.png)
 
->[!NOTE]
->  En transmisiones reales, usamos **el ancho de banda relativo** y no el absoluto, ya que para que una señal pueda ser transmitida por un canal de comunicación, el espectro de frecuencia de esta tiene que entrar en el canal y, en una señal aperiódica, vimos que, en la teoría, su ancho de banda es infinito (y esto no puede entrar en un canal real). Es por eso que a partir de ahora, cuando hablamos de ancho de banda, nos estaremos referiendo al ancho de banda relativa, ya que es con el que trabajaremos.
+?>  En transmisiones reales, usamos **el ancho de banda relativo** y no el absoluto, ya que para que una señal pueda ser transmitida por un canal de comunicación, el espectro de frecuencia de esta tiene que entrar en el canal y, en una señal aperiódica, vimos que, en la teoría, su ancho de banda es infinito (y esto no puede entrar en un canal real). Es por eso que a partir de ahora, cuando hablamos de ancho de banda, nos estaremos referiendo al ancho de banda relativa, ya que es con el que trabajaremos.
 

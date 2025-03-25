@@ -2,8 +2,7 @@
 
 ## La Voz Humana y la Telefonía
 
-> [!TIP]
-> Revisar [Ancho de banda](../seniales/ancho_banda/ancho_banda.md)
+!> Revisar [Ancho de banda](../seniales/ancho_banda/ancho_banda.md)
 
 El ancho de banda (rango de frecuencias) de la voz humana es de 20KHz entonces ¿por qué los canales telefónicos son de 4KHz?
 

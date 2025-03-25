@@ -4,8 +4,7 @@ Los filtros nos permiten delimitar que frecuencias (o ancho de banda) nos intere
 
 Para estos, se suele usar un concepto llamado **Frecuencia de Corte**. Es un valor de referencia que se toma para determinar, cuando hay una caída/subida de la potencia de una señal. Este cambio no suele ser instantaneo, sino que progresivo.
 
-> [!TIP]
-> El valor que se toma de referencia para la Frecuencia de Corte es de 70.7% (ya sea, caida o subida) de su valor máximo, esto ocurre cuando la reactancia capacitiva iguala a la resistencia.
+?> El valor que se toma de referencia para la Frecuencia de Corte es de 70.7% (ya sea, caida o subida) de su valor máximo, esto ocurre cuando la reactancia capacitiva iguala a la resistencia.
 
 ## Filtro Pasa Bajo
 
