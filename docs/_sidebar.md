@@ -16,6 +16,11 @@
           - [¿Cómo buscar la mayor cantidad de energía en las señales?](seniales/ancho_banda/mayor_energia.md)
           - [Problema a la Hora de Transmitir Datos por una Línea de Transmisión Alámbrica](seniales/ancho_banda/problemas_al_transmitir_analambrico.md)
           - [Filtros](seniales/ancho_banda/filtros.md)
+        - [Capacidad de Canal](seniales/capacidad_canal/capacidad_canal.md)
+          - [Ruido](seniales/capacidad_canal/ruido.md)
+          - [Eficiencia Espectral](seniales/capacidad_canal/eficiencia_espectral.md)
+        - [Sincronismo](seniales/sincronismo/sincronismo.md)
+          - [Niveles de Sincronismo](seniales/sincronismo/niveles_sincronismo.md) 
         - [Componente Continua](seniales/componente_continua.md)
 
     - [Teoría de la Información](teoria_de_la_informacion/teoria_de_la_informacion.md)
@@ -24,6 +29,8 @@
         - [Bit y Binit](teoria_de_la_informacion/bit_binit.md)
         - [Entropia](teoria_de_la_informacion/entropia.md) 
 
+    - [Códigos de Linea de Banda Base](codigos_linea/codigos_linea.md)
+      - [Clasificación de Códigos de Banda Base](codigos_linea/clasificacion.md)
     - Modulación
 
     - Modelo OSI

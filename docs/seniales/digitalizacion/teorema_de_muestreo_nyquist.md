@@ -1,0 +1,1 @@
+# Teorema del Muestreo / Nyquist
