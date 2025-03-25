@@ -1,4 +1,4 @@
-- Teórico
+- [Contenido](/)
     - [Física de las Comunicaciones](fisica_de_las_comunicaciones/introduccion.md)
 		- [Medios de Transmisión](fisica_de_las_comunicaciones/medio_fisico_transmision.md)
         - [Corriente Eléctrica](fisica_de_las_comunicaciones/corriente_electrica.md)
@@ -38,4 +38,4 @@
     - Cableado Estructurado
 
     - [Extra - Curiosidades](extra_curiosidades/extra_curiosidades.md)
-- Práctico/Fórmulas
+- [Fórmulas](/formulas.md)
