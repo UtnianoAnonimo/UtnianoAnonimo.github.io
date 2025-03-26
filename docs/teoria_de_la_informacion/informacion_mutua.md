@@ -1,1 +1,0 @@
-# Información Mutua (2do Principio)

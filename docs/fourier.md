@@ -1,3 +1,17 @@
+# Fourier
+
+Una señal, puede ser representada en el **dominio del tiempo** o en el **dominio de la frecuencia**. De esta forma, podemos tomar una señal y ver como varía su amplitud (tensión o voltaje) en función del tiempo.
+
+Sin embargo, una señal también **puede estar constituida por la suma de componentes** (otras señales) de distintas frecuencias. Entonces si en otro plano nosotros vemos como varía la amplitud en función de la frecuencia, veremos el espectro de las distintas frecuencias que componen a $f(t)$.
+
+![dominio_tiempo_frecuencia](assets/dominio_tiempo_frecuencia.png)
+
+Para poder encontrar el espectro de frecuencia de una señal periódica, debemos utilizar el análisis de Fourier.
+
+### Espectro de Frecuencias
+
+Se refiere al conjunto de frecuencias que constituyen una señal.
+
 # Análisis de Fourier
 
 Fourier demostró que, podemos **construir cualquier función periódica $f(t)$ con período $T$ sumando una cantidad (infinita) de senos y cosenos**. El análisis de Fourier entonces nos permitirá descomponer una señal que originalmente estaba en el dominio del tiempo $f(t)$ en las distintas componentes de frecuencia que la componen y dándonos como información a qué frecuencia se encuentra cada una y qué amplitud o energía de tensión o potencia tienen para poder representarlas en el dominio de la frecuencia $f(w)$.
@@ -12,7 +26,7 @@ La frecuencia fundamental, calculada como $w0 = 2\pi f_0 = 2 \frac{\pi}{𝑇}$ e
 
 Aquella componente o armónica cuya frecuencia coincida con la fundamental ($n=1$) se denominará **componente fundamental**.
 
-![transformada_fourier](../../assets/transformada_fourier.gif)
+![transformada_fourier](assets/transformada_fourier.gif)
 
 ## Componente continua
 
