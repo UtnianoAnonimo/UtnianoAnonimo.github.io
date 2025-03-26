@@ -1,0 +1,1 @@
+# Interferencia Entre Símbolos 
