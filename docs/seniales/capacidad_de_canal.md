@@ -1,12 +1,12 @@
 # Capacidad de Canal
 
-# Eficiencia Espectral
+## Eficiencia Espectral
 
-# Ruido
+## Ruido
 
 En las comunicaciones, se refieren a señales no deseadas que se mezclan con la señal que se busca transmitir originalmente.
 
-## Ruido en un Sistema de Transmisión o Comunicación Analógico
+### Ruido en un Sistema de Transmisión o Comunicación Analógico
 
 Un sistema de transmisión analógico es aquel en donde la energía o información se transmite y recibe en forma analógica. Las señales entonces, a diferencia de la transmisión digital que pasa de un valor a otro, pasa por todos los valores intermedios, es continua y toma infinitos valores. Un ejemplo de estas señales son la luz, sonido, entre otros.
 
