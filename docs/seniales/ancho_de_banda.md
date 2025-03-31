@@ -63,7 +63,7 @@ Las señales que nos interesan en las comunicaciones son las **no periódicas**,
 
 También sabemos que los medios físicos de transmisión tienen un ancho de banda máximo, es decir, permiten pasar hasta ciertas frecuencias. Como vimos, a medida que la frecuencia una señal aumenta, sucede el **[efecto skin](../intr_sistemas_de_comunicaciones/fisica_de_las_comunicaciones#efecto-skin)** y si continúa aumentando el conductor se transforma en una antena y las cargas comienzan a ser irradiadas.
 
-Entonces, cuando nosotros transmitimos datos por una línea de transmisión alámbrica como puede ser un cable UTP, estos se comportan como un **[filtro pasa bajo](#filtro-pasa-bajo)**. Supongamos que tenemos una señal de pulsos cuadrados, vemos que la señal se deforma al transmitirla.
+Supongamos que tenemos una señal de pulsos cuadrados y la queremos transmitir por una línea de transmisión alámbrica como lo puede ser un cable UTP, vamos a poder ver que la señal se deforma al transmitirla.
 
 ![ej_filtro_utp](../assets/ej_filtro_utp.png)
 
