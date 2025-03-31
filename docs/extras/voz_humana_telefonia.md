@@ -1,6 +1,4 @@
-# Extra - Curiosidades
-
-## La Voz Humana y la Telefonía
+# La Voz Humana y la Telefonía
 
 !> Revisar [Ancho de banda](seniales/ancho_banda/ancho_banda.md)
 

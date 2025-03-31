@@ -12,7 +12,7 @@ Un sistema de transmisión analógico es aquel en donde la energía o informaci�
 
 Para poder mantener relativamente constante la potencia de una señal, siempre que se pierde potencia, esta se puede amplificar utilizando amplificadores. Sin embargo, **cada vez que se amplifica la señal, se incorpora mayor ruido**. A largas distancias, la señal tendrá que ser amplificada varias veces ya que gradualmente va perdiendo potencia y esto causará un mayor ruido.
 
-![ruido](assets/ruido.png)
+![ruido](../assets/ruido.png)
 
 Esto solo sucede en señales analógicas. Las señales digitales no utilizan amplificadores, sino que usan **repetidores** que lo que hacen es recibir la señal, filtrarla (reconocerla), regenerarla y después retransmitirla perfecto.
 

@@ -22,7 +22,7 @@ Por convención, la corriente eléctrica siempre va desde el polo positivo al ne
 
 ## Tipos de Corriente Eléctrica
 
-![tipos_corriente_electrica](assets/corriente_electrica.png)
+![tipos_corriente_electrica](../assets/corriente_electrica.png)
 
 ### Corriente Alterna
 

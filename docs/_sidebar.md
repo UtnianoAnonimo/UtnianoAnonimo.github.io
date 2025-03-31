@@ -1,27 +1,54 @@
-- [Introducción](/)
-- [Física de las Comunicaciones](fisica_de_las_comunicaciones)
-- [Señales](seniales)
-- [Fourier](fourier)
-- [Ancho de Banda](ancho_de_banda)
-- [Capacidad de Canal](capacidad_de_canal)
-- [Sincronismo](sincronismo)
-- [Digitalización](digitalizacion)
-- [Teoría de la Información](teoria_de_la_informacion)
-- [Códigos de Linea](codigos_de_linea)
-- [PSD](psd)
-- [Modulación Analógica](modulacion_analogica)
-- [Modulación Digital](modulacion_digital)
-- [Multiplexación](multiplexacion)
-- [Transmisión en Serie y Paralela](transmision_serie_paralela)
-- [Norma RS 232-C](norma_rs232)
-- [Norma IEEE 1284](norma_ieee1284)
-- [USB](usb)
-- [Fibra Optica](fibra_optica)
-- [Radio Enlace](radioenlace)
-- [Antenas](antenas)
-- [Satelites](satelites)
-- [Tecnologías de Acceso Inalambrico](tecnologias_acceso_inalambrico)
-- [Interferencia entre Símbolos](interferencia_entre_simbolos)
-- [Interferencia Electromagnética](interferencia_electromagnetica)
-- [Extra - Curiosidades](extra_curiosidades)
-- [Formulas](formulas)
+---
+- **Introducción a los Sistemas de Comunicaciones**
+  - [Física de las Comunicaciones](./intr_sistemas_de_comunicaciones/fisica_de_las_comunicaciones)
+  - [Teoría de la Información](./intr_sistemas_de_comunicaciones/teoria_de_la_informacion)
+---
+- **Señales**
+  - [Introducción](./seniales/introduccion)
+  - [Fourier](./seniales/fourier)
+  - [Ancho de Banda](./seniales/ancho_de_banda)
+  - [Capacidad de Canal](./seniales/capacidad_de_canal)
+  - [PSD](./seniales/psd)
+---
+- **Modos de Transmisión**
+  - [Digitalización](./modos/digitalizacion)
+  - [Códigos de Linea](./modos/codigos_de_linea)
+  - [Modulación Analógica](./modos/modulacion_analogica)
+  - [Modulación Digital](./modos/modulacion_digital)
+  - [Multiplexación](./modos/multiplexacion)
+  - [Sincronismo](./modos/sincronismo) 
+  - [Transmisión en Serie y Paralela](./modos/transmision_serie_paralela)
+  - [Norma RS 232-C](./modos/norma_rs232)
+  - [Norma IEEE 1284](./modos/norma_ieee1284)
+  - [USB](./modos/usb)
+---  
+- **Medios de Transmisión**
+  - [Fibra Optica](./medios/fibra_optica)
+  - [Radio Enlace](./medios/radioenlace)
+  - [Antenas](./medios/antenas)
+  - [Satelites](./medios/satelites)
+  - [Tecnologías de Acceso Inalambrico](./medios/tecnologias_acceso_inalambrico)
+---
+- **Inconvenientes con las señales**
+  - [Interferencia entre Símbolos](./inconvenientes/interferencia_entre_simbolos)
+  - [Interferencia Electromagnética](./inconvenientes/interferencia_electromagnetica)
+  - [Jitter](./inconvenientes/jitter)
+  - [Latencia](./inconvenientes/latencia)
+  - [Diagrama de Ojo](./inconvenientes/diagrama_de_ojo)
+---
+- **Arquitecturas y Tecnologías de Comunicaciones**
+  - [Modelo OSI](./arquitecturas/modelo_osi)
+  - [Conmutaciones](./arquitecturas/conmutaciones)
+  - [Última Milla](./arquitecturas/ultima_milla)
+  - [Dial Up](./arquitecturas/dial_up)
+  - [xDSLx](./arquitecturas/xdslx)
+  - [Cable Modem](./arquitecturas/cable_modem)
+---
+- **Cableado Estructurado**
+  - [Introducción](./cableado_estructurado/introduccion)
+---
+- **Extra - Curiosidades**
+  - [La Voz Humana y la Telefonía](./extras/voz_humana_telefonia)
+---
+- **Formulas**
+---

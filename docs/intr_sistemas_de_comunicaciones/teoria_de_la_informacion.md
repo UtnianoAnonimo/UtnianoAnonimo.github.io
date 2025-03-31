@@ -4,7 +4,7 @@ La teoría de la información es una rama de la teoría de la probabilidad que s
 
 Tiene como objetivo estudiar las señales y el contenido de información que poseen.
 
-![teoria_de_la_informacion_diagrama](assets/teoria_de_la_informacion_diagrama.png)
+![teoria_de_la_informacion_diagrama](../assets/teoria_de_la_informacion_diagrama.png)
 
 ## Medida de Información (1er Principio)
 
