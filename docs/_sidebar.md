@@ -52,3 +52,4 @@
 ---
 - **Formulas**
 ---
+- [Resumen](pdfs/resumen)
