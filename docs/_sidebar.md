@@ -46,6 +46,8 @@
 ---
 - **Cableado Estructurado**
   - [Introducción](./cableado_estructurado/introduccion)
+  - [ISO 11801](./cableado_estructurado/ISO_11801.md)
+  - [EIA/TIA-568](./cableado_estructurado/EIA_TIA-568)
 ---
 - **Extra - Curiosidades**
   - [La Voz Humana y la Telefonía](./extras/voz_humana_telefonia)
