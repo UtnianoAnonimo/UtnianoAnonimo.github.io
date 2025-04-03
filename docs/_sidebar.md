@@ -52,4 +52,18 @@
 ---
 - **Formulas**
 ---
-- [Resumen](pdfs/resumen)
+- **Documentos**
+  - [Resumen](pdfs/resumen)
+  - [Heuristica 1](pdfs/heuristicas/heuristica_1)
+  - [Heuristica 2](pdfs/heuristicas/heuristica_2)
+  - [Heuristica 3](pdfs/heuristicas/heuristica_3)
+  - [Heuristica 4](pdfs/heuristicas/heuristica_4)
+  - [Heuristica 5](pdfs/heuristicas/heuristica_5)
+  - [Heuristica 6](pdfs/heuristicas/heuristica_6)
+  - [Heuristica 7](pdfs/heuristicas/heuristica_7)
+  - [Heuristica 8](pdfs/heuristicas/heuristica_8)
+  - [Heuristica 9](pdfs/heuristicas/heuristica_9)
+  - [Heuristica 10](pdfs/heuristicas/heuristica_10)
+---
+- **Bibliografía**
+  - [Comunicaciones y Redes de Computadores - Stallings](pdfs/libros/comunicaciones_redes_stallings) 
