@@ -46,8 +46,16 @@
 ---
 - **Cableado Estructurado**
   - [Introducción](./cableado_estructurado/introduccion)
-  - [ISO 11801](./cableado_estructurado/ISO_11801.md)
-  - [EIA/TIA-568](./cableado_estructurado/EIA_TIA-568)
+  - [ISO 11801](./cableado_estructurado/ISO_11801)
+  - **EIA/TIA-568**
+    - [¿Qué es la Norma EIA/TIA-568?](./cableado_estructurado/norma/EIA_TIA-568)
+    - [Área de Trabajo (WA)](./cableado_estructurado/norma/WA)
+    - [Armario de Telecomunicaciones](./cableado_estructurado/norma/armario_de_telecomunicaciones)
+    - [Cableado Horizontal](./cableado_estructurado/norma/cableado_horizontal)
+    - [Cableado Vertical](./cableado_estructurado/norma/cableado_vertical)
+    - [Sala de Equipamiento](./cableado_estructurado/norma/sala_equipamiento)
+    - [Facilidades de Entrada](./cableado_estructurado/norma/facilidades_entrada)
+    - [Componentes del Cableado Estructurado](./cableado_estructurado/norma/componentes)
 ---
 - **Extra - Curiosidades**
   - [La Voz Humana y la Telefonía](./extras/voz_humana_telefonia)
